@@ -42,4 +42,6 @@
 
 
 
-console.log(chi(2, 4));
+// console.log(chi(2, 4));
+
+
