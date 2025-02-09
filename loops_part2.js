@@ -71,5 +71,5 @@ const coding = [
 ];
 
 coding.forEach((item) => {
-  console.log(item.languagename);
+  // console.log(item.languagename);
 });
